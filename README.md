@@ -9,7 +9,7 @@ A free mixin-based injection hacked-client for Minecraft using Minecraft Forge b
 Website: none yet
 
 ## Issues
-If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/Droid_D3V/DroidW4RE/issues).
+If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/Droid_D3V/DroidW4RE-1.8/issues).
 
 ## License
 This project is subject to the [GNU General Public License v3.0](LICENSE). This does only apply for source code located directly in this clean repository. During the development and compilation process, additional source code may be used to which we have obtained no rights. Such code is not covered by the GPL license.
