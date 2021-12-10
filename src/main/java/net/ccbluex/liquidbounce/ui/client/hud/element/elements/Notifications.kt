@@ -36,7 +36,7 @@ class Notifications(
     /**
      * Example notification for CustomHUD designer
      */
-    private val exampleNotification = Notification("Notification", "This is an example notification.", NotifyType.INFO)
+    private val exampleNotification = Notification("DroidW4RE Notification", "This is an example notification.", NotifyType.INFO)
 
     /**
      * Draw element
