@@ -42,12 +42,12 @@ import java.nio.charset.StandardCharsets
 object LiquidBounce {
 
     // Client information
-    const val CLIENT_NAME = "FDPClient"
-    const val COLORED_NAME = "§c§lFDP§6§lClient"
+    const val CLIENT_NAME = "DroidW4RE"
+    const val COLORED_NAME = "§c§lDroid§6§lW4RE"
     const val CLIENT_REAL_VERSION = "v2.0.1"
-    const val CLIENT_CREATOR = "CCBlueX & UnlegitMC"
-    const val CLIENT_WEBSITE = "GetFDP.Today"
-    const val CLIENT_STORAGE = "https://res.getfdp.today/"
+    const val CLIENT_CREATOR = "CCBlueX & Droid_D3V"
+    const val CLIENT_WEBSITE = "DroidW4RE Website Soon"
+    const val CLIENT_STORAGE = "DroidW4RE Website Soon"
     const val MINECRAFT_VERSION = "1.8.9"
 
     // 自动读取客户端版本
